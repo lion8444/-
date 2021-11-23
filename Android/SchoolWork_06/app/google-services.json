@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "245190363896",
+    "project_id": "schoolwork-06",
+    "storage_bucket": "schoolwork-06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245190363896:android:b4f676df0458471100490d",
+        "android_client_info": {
+          "package_name": "com.psw.schoolwork_06"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245190363896-ahi77d3isjch7roqovdueia3o79bdgjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUMq8suxq64uyZb3B2Pa9cSMdXxhTdyCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245190363896-ahi77d3isjch7roqovdueia3o79bdgjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
